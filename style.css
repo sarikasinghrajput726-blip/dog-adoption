@@ -315,6 +315,6 @@ box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30p
 @media  and (max-width:768px) {
     .header{
     background-image: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
-    width: 100%;
+    width: 12000px;
     } 
 }
